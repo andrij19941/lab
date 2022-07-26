@@ -1,0 +1,349 @@
+body {
+position: relative;
+width: 1920px;
+height: 4357px;
+
+background: #F9F9F9;
+}
+.info {
+    position: absolute;
+width: 1920px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+}
+.vector1 {
+    position: absolute;
+left: 8.33%;
+right: 8.17%;
+top: 8.33%;
+bottom: 8.33%;
+padding: 10px;
+color: #969696;
+}
+.grafik {
+    position: absolute;
+width: 355px;
+height: 16px;
+left: 436px;
+top: 14px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+
+/* gray */
+
+color: #969696;
+
+}
+.vector2 {
+    position: absolute;
+left: 12.5%;
+right: 31.25%;
+top: 29.17%;
+bottom: 29.17%;
+
+/* gray */
+
+color: #969696;
+}
+.login {
+    position: absolute;
+width: 107px;
+height: 16px;
+left: 1408px;
+top: 14px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: right;
+
+/* gray */
+
+color: #969696;
+}
+ 
+.bloce2 {
+    position: absolute;
+width: 1920px;
+height: 80px;
+left: 0px;
+top: 44px;
+
+background: #0F0F0F
+}
+.Rectangle5 {
+    position: absolute;
+width: 136px;
+height: 80px;
+left: 978px;
+top: 44px;
+
+background: #1F1F1F;
+}
+.cccc {
+width: 96px;
+height: 18px;
+left: 998px;
+top: 90px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.dddd {
+    position: absolute;
+width: 119px;
+height: 18px;
+left: 1134px;
+top: 75px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+
+/* gray */
+
+color: #969696;
+
+}
+.ffff {
+    position: absolute;
+width: 78px;
+height: 18px;
+left: 1293px;
+top: 200px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+
+/* gray */
+
+color: #969696;
+
+}
+.vvvv {
+    position: relative;
+    top: ;
+}
+.oclock {
+    display: flex;
+    display: inline;
+}
+.oclock1 {
+   
+
+background: #191B1C
+}
+.foto-oclock {
+    background: url(62050.png);
+}
+.seasone {
+    position: absolute;
+width: 1040px;
+height: 730px;
+left: 0px;
+top: 934px;
+
+background: #000000;
+}
+.text1 {
+
+width: 376px;
+height: 39px;
+left: 332px;
+top: 1027px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+
+color: #FFFFFF;
+
+}
+.man {
+    position: 
+width: 1920px;
+height: 810px;
+left: 0px;
+top: 124px;
+
+} 
+.kyiv {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    left: 800px;
+    top: 284px;
+    
+    border: 4px solid #FFFFFF;
+}
+h2 {
+    
+width: 185px;
+height: 86px;
+left: 1000px;
+top: 377px;
+
+font-family: 'Post No Bills Jaffna';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 96px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+hr {
+    width: 179px;
+height: 0px;
+left: 870px;
+top: 459px;
+
+border: 2px solid #FFFFFF;
+}
+h3 {
+    
+width: 180px;
+height: 44px;
+left: 869px;
+top: 466px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.lorem {
+position: absolute;
+width: 730px;
+height: 96px;
+left: 595px;
+top: 684px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.span {
+
+width: 140px;
+height: 24px;
+left: 80px;
+top: 1516px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+
+
+
+/* white */
+
+color: #FFFFFF;
+
+}
+.vector9 {
+    position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 29.17%;
+
+color:#969696;
+}
+.vector10 {
+    position: absolute;
+left: 12.49%;
+right: 12.5%;
+top: 12.49%;
+bottom: 12.5%;
+
+color: #969696;
+}
+.man2 {
+position: absolute;
+width: 880px;
+height: 730px;
+left: 1040px;
+top: 934px;
+
+}
+.nova-colection {
+
+width: 376px;
+height: 39px;
+left: 1292px;
+top: 1418px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+
+color: #FFFFFF
+}
+.line {
+    position: absolute;
+width: 120px;
+height: 0px;
+left: 1421px;
+top: 1487px;
+
+/* white */
+
+border: 1px solid #FFFFFF;
+}
