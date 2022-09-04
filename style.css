@@ -1,5 +1,5 @@
 body {
-position: relative;
+
 width: 1920px;
 height: 4357px;
 
@@ -149,7 +149,7 @@ color: #969696;
 }
 .vvvv {
     position: relative;
-    top: ;
+
 }
 .oclock {
     display: flex;
@@ -346,4 +346,37 @@ top: 1487px;
 /* white */
 
 border: 1px solid #FFFFFF;
+}
+.goods{
+    position: absolute;
+width: 1920px;
+height: 1289px;
+left: 0px;
+top: 2264px;
+
+background: #000000;
+}
+
+#flex-container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.group4 {
+    position: absolute;
+width: 260px;
+height: 325px;
+left: 405px;
+top: 2553px;
+
+background: #191B1C;
+}
+.andrij{
+position: absolute;
+width: 260px;
+height: 325px;
+left: 405px;
+top: 2553px;
+
+background: #191B1C;
 }
